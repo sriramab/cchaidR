@@ -6,5 +6,5 @@ To install from R prompt:
 
 ```r
 install.packages("devtools") 
-devtools::install_github("tpgjs66/cchaidR")
+devtools::install_github("sriramab/cchaidR")
 ```
